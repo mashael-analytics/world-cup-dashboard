@@ -24,3 +24,12 @@ It includes World Cup statistics from 2014 to 2022, prepared and cleaned manuall
 ## Notes:
 This is my first data project using IBM Cognos Analytics.  
 It focuses on presenting clear KPIs, interactive elements, and visual storytelling to analyze World Cup history.
+
+## How to Explore the Dashboard?
+
+This dashboard was built using IBM Cognos Analytics, which currently doesn't support public embedding. However, if you're interested in seeing it in action, feel free to reach out via GitHub or check out the screenshots included above.
+
+Future improvements may include:
+- Making the dashboard interactive via embedded public link
+- Adding statistics from earlier World Cup tournaments (before 2014)
+- Including player-level data for deeper insights
